@@ -1,9 +1,8 @@
 # Hi there 👋, I'm Ahmed Hossain
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)][gmail]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-hossain-bb0262198/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](ahmed.hossain100@gmail.com)
 [![Website](https://img.shields.io/badge/Website-My_Portfolio-blue)][website]
-[![CV](https://img.shields.io/badge/CV-View_Online-blue)][cv]
 
 Welcome to my GitHub profile! I'm a Water Resources Engineer and Data Scientist passionate about leveraging hydrologic modeling, AI, and geospatial analysis to address challenges in water resources, hazard analysis, and climate change adaptation. My background in Civil Engineering from BUET and my M.Sc. from IWFM (BUET) provide a strong foundation for my research and projects.
 
