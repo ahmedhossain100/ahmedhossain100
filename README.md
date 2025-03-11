@@ -80,6 +80,6 @@ Here are some of my highlighted projects, showcasing my skills in remote sensing
 
 Feel free to reach out! I'm always open to discussing new opportunities and collaborations.
 
-*   [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile-url) (Replace with your actual LinkedIn URL)
+*   [LinkedIn](https://www.linkedin.com/in/ahmed-hossain-bb0262198/)
 *   [Gmail](mailto:ahmed.hossain100@gmail.com)
 *   [My Website](https://ahmedhossain.net) 
