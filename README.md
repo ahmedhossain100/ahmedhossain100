@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a Water Resources Engineer and Data Scientist 
 
 ## 💼 Current Activities
 
-*   **FOREWARN Consultant at Start Network:** Developing AI-driven solutions for humanitarian early warning systems, focusing on forecast-based financing mechanisms.
+*   **Technical Consultant at Start Network:** Developing AI-driven solutions for humanitarian early warning systems, focusing on Agricultural Information System based on Generative AI. 
 *   Actively contributing to open-source projects related to flood forecasting and climate risk assessment.
 *   Seeking opportunities to apply my skills in impactful research and development roles.
 
