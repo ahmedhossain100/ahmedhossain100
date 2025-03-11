@@ -82,4 +82,4 @@ Feel free to reach out! I'm always open to discussing new opportunities and coll
 
 *   [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile-url) (Replace with your actual LinkedIn URL)
 *   [Gmail](mailto:ahmed.hossain100@gmail.com)
-*   [ahmedhossain.net](https://ahmedhossain.net) (Or your portfolio website)
+*   [My Website](https://ahmedhossain.net) 
